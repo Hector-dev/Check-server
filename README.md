@@ -47,12 +47,12 @@ Para iniciar la aplicación, ejecute:
 
 check-server-2.0/
 │
-├── check_server.py         # Script principal
-├── requirements.txt        # Dependencias del proyecto
-├── README.md               # Este archivo
-├── active.ico              # Icono para servidores activos
-├── inactivo.ico            # Icono para servidores inactivos
-└── BD                      # Base de datos SQLite (se crea automáticamente)
+├── check_server.py         # Script principal.
+├── requirements.txt        # Dependencias del proyecto.
+├── README.md               # Este archivo.
+├── active.ico              # Icono para servidores activos.
+├── inactivo.ico            # Icono para servidores inactivos.
+└── BD                      # Base de datos SQLite (se crea automáticamente).
 
 ## Funcionamiento interno
 1. Al iniciar, la aplicación se conecta a la base de datos SQLite.
