@@ -72,6 +72,6 @@ Las contribuciones son bienvenidas. Por favor, abra un issue para discutir cambi
 [MIT License](https://opensource.org/licenses/MIT)
 
 ## Contacto
-Héctor Rodríguez - [correo@ejemplo.com]
+Héctor Rodríguez - [hectorrdev@gmail.com]
 
 Enlace del proyecto: [https://github.com/Hector-dev/Check-server](https://github.com/Hector-dev/Check-server)
